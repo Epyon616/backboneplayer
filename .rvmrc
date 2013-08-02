@@ -1,0 +1,2 @@
+rvm rvmrc warning ignore /Users/lee/code/personal/backboneplayer/.rvmrc
+rvm use  ruby-1.9.3-p448@backboneplayer --create

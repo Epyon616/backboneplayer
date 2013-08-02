@@ -1,0 +1,16 @@
+Backbone player
+==================================
+
+This is a simple music player application I built using Backbone JS while following the Backbone JS tutorials from http://peepcode.com
+
+USAGE
+=====
+
+Run:
+
+    rake server
+
+Visit the webserver at:
+
+    http://localhost:9292
+
